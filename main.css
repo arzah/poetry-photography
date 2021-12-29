@@ -195,6 +195,7 @@
 
     li a:hover {
         color: gold;
+        border: 1px solid grey;
 
     }
 
