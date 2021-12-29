@@ -39,7 +39,8 @@
 
     li a:hover {
         color: gold;
-        background-color: gray;
+        background-color: rgba(128, 128, 128, 0.548);
+        border: 1px solid rgba(128, 128, 128, 0.548);
 
     }
 
@@ -195,8 +196,8 @@
 
     li a:hover {
         color: gold;
-        border: 1px solid grey;
-
+        border: 1px solid rgba(128, 128, 128, 0.548);
+        background-color:rgba(128, 128, 128, 0.548)grey;
     }
 
     /* Adding a background image to the navigation */
@@ -337,7 +338,8 @@
 
     li a:hover {
         color: gold;
-
+        border: 1px solid rgba(128, 128, 128, 0.548);
+        background-color:rgba(128, 128, 128, 0.548);
     }
 
     /* Adding a background image to the navigation */
