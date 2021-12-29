@@ -44,7 +44,7 @@
     }
 
     .hero-image {
-        background-image: url("IMG_5951.JPG");
+        background-image: url("images/plane.JPG");
         height: 50%;
         position: relative;
         min-height: 850px;
@@ -201,7 +201,7 @@
     /* Adding a background image to the navigation */
 
     .hero-image {
-        background-image: url("IMG_5951.JPG");
+        background-image: url("images/plane.JPG");
         height: 50%;
         position: relative;
         min-height: 850px;
@@ -342,7 +342,7 @@
     /* Adding a background image to the navigation */
 
     .hero-image {
-        background-image: url("IMG_5951.JPG");
+        background-image: url("images/plane.JPG");
         height: 50%;
         position: relative;
         min-height: 850px;
@@ -445,7 +445,7 @@
 /* styling for moving image */
 
 .fixed-image1 {
-    background-image: url("shore.png");
+    background-image: url("images/shore.png");
     min-height: 300px;
     background-attachment: fixed;
     background-position: center;
@@ -472,7 +472,7 @@
 }
 
 .fixed-image4 {
-    background-image: url("portssunset.JPG");
+    background-image: url("images/portssunset.JPG");
     min-height: 300px;
     background-attachment: fixed;
     background-position: top;
